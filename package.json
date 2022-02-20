@@ -1,23 +1,17 @@
 {
-  "name": "nosql-socialnetwork",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zeeshanmufti1995/NoSql-SocialNetwork.git"
-  },
-  "author": "ZEESHAN MUFTI",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zeeshanmufti1995/NoSql-SocialNetwork/issues"
-  },
-  "homepage": "https://github.com/zeeshanmufti1995/NoSql-SocialNetwork#readme",
-  "dependencies": {
-    "express": "^4.17.3",
-    "mongoose": "^6.2.2"
+    "name": "virtuals",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "author": "Zeeshan Mufti",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.16.3",
+      "mongoose": "^5.3.16"
+    }
   }
-}
+  
